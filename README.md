@@ -1,5 +1,5 @@
-# DSGAN
-# Dual-Domain Synergistic Guided Attention Network for Hyperspectral Image Classification
+# SSSGAN
+# Spectral-Spatial Synergistic Guided Attention Network for Hyperspectral Image Classification
 # Requirements
 python=3.8.20
 
